@@ -1,0 +1,10 @@
+ impetuous      36 
+ drug-addicted  36 
+ oversexed      37 
+ maverick       39 
+ dead           40 
+ American       45 
+ last           57 
+ fast           63 
+ secret         69 
+ wrong          152
